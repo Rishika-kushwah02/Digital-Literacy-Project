@@ -15,10 +15,10 @@ I will regularly update these profiles to build a strong and professional digita
 # Screenshots
 
 1. **GitHub Profile**
-![GitHub Screenshot](github.profile.img.png)
+![GitHub Screenshot](/img/github.profile.img.png)
 
 2. **LinkedIn Profile**
-![LinkedIn Screenshot](linkedIn.profile.img.png)
+![LinkedIn Screenshot](/img/linkedIn.profile.img.png)
 
 3. **Kaggle Profile**
-![Kaggle Screeshots](kaggle.profile.img.png)
+![Kaggle Screeshots](/img/kaggle.profile.img.png)
