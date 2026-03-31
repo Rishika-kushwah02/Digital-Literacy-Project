@@ -8,6 +8,6 @@ While designing the infographic, I found arranging icons, text, and colors in a 
 
 Overall, this task improved my understanding of digital literacy and visual presentation.
 
-![Digital Literacy Infographic](t1_DL.IMAG.jpeg)
+![Digital Literacy Infographic](/img/t1_DL.IMAG.jpeg)
 ---
 <p align="center">Created by <b>Rishika kushwah</b></p>
