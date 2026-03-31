@@ -166,13 +166,3 @@ This project helped me build a strong digital foundation by combining technical 
 These skills will support my academic journey and future career in cybersecurity and technology.
 
 ---
-
-<p align="center">
-  <b>Created by Rishika Kushwah</b>
-</p>
-
----
-
-## 🏷️ Tags
-
-`#DigitalLiteracy` `#Cybersecurity` `#StudentProject`
