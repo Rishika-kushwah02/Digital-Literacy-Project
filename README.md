@@ -123,9 +123,11 @@ Explained how phishing attacks occur and their real-world impact.
 - Included UPI safety and reporting methods  
 
 **Files:**  
-- [Prevention Checklist](pdf/Task-5_Stay Safe Online – Prevention Checklist.pdf)  
-- [Phishing Case Study](pdf/Task-5_PHIISHING CASE STUDY.pdf)  
-- [pdf](pdf/Task-5_Stay Safe Online – Prevention Checklist.pdf)
+
+- [Prevention Checklist](pdf/Task-5_Stay%20Safe%20Online%20–%20Prevention%20Checklist.pdf)
+- [Phishing Case Study](pdf/Task-5_PHIISHING%20CASE%20STUDY.pdf)
+
+    
 ---
 
 ## 🛠️ Tools & Platforms Used
