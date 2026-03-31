@@ -125,7 +125,7 @@ Explained how phishing attacks occur and their real-world impact.
 **Files:**  
 - [Prevention Checklist](pdf/Task-5_Stay Safe Online – Prevention Checklist.pdf)  
 - [Phishing Case Study](pdf/Task-5_PHIISHING CASE STUDY.pdf)  
-
+- [pdf](pdf/Task-5_Stay Safe Online – Prevention Checklist.pdf)
 ---
 
 ## 🛠️ Tools & Platforms Used
